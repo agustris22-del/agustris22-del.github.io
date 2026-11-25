@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.agustris22_del.twa",
-        "sha256_cert_fingerprints": ["1F:48:1D:43:EF:C7:D5:EC:17:C6:2A:CA:44:8D:DD:94:09:19:C8:E4:A6:A3:6C:4B:AD:48:2F:EC:0C:99:5D:1F"]
+        "sha256_cert_fingerprints": ["8C:59:42:3E:D2:9B:54:8D:2E:6B:FB:F7:C4:AC:17:71:EE:76:63:75:34:A8:42:F7:D5:34:A6:1E:D8:BE:F8:DA"]
       }
     }]
